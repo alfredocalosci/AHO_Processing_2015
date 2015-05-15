@@ -27,7 +27,7 @@ class pallina {
 
   void display() {
     noStroke();
-    fill(255, 0, 0, 128);
+    fill(0, 0, 255, 128);
     ellipse(x, y, w, w);
   }
 
